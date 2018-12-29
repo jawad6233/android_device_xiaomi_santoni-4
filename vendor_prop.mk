@@ -208,7 +208,7 @@ ril.subscription.types=NV,RUIM \
 rild.libargs=-d/dev/smd0 \
 rild.libpath=/vendor/lib64/libril-qc-qmi-1.so \
 ro.telephony.call_ring.multiple=false \
-service.qti.ims.enabled=1 \
+vendor.service.qti.ims.enabled=1 \
 telephony.lteOnCdmaDevice=1 \
 ro.telephony.default_network=22,20
 
